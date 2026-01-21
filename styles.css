@@ -37,12 +37,8 @@ body {
   margin-bottom: 25px;
   text-align: center;
   display: block;
-  width: 100%;
   margin: auto;
   margin-top: 20px;
-  border-radius: 10px;
-  border-color: black;
-  border-width: 2px;
   border-style: solid;
 }
 
@@ -53,13 +49,10 @@ body {
 
 .polaroid img {
   display: block;
-  width: 100%;
+  width: 80%;
   margin: auto;
   margin-top: 20px;
   border-radius: 10px;
-  border-color: black;
-  border-width: 2px;
-  border-style: solid;
 }
 
 
