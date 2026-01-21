@@ -30,14 +30,20 @@ body {
   padding: 5px 0;
 }
 
-.container .content .polaroid {
+.container .polaroid {
   width: 50%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
 }
 
-.container .content .polaroid img {
+.container .polaroid p {
+  text-align: center;
+  font-size: 25px;
+  padding: 5px 0;
+}
+
+.container .polaroid img {
   display: block;
   margin: auto;
   margin-top: 20px;
