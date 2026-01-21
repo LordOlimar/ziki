@@ -23,8 +23,20 @@ body {
   color: darkslateblue;
   padding: 5px 0;
 }
+
 .container .content p {
   font-size: 25px;
   color: darkslateblue;
   padding: 5px 0;
+}
+
+.container .content img {
+  display: block;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
 }
