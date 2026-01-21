@@ -49,10 +49,12 @@ body {
 
 .polaroid img {
   width: 100%;
+  height: auto;
 }
 
 .polaroid video {
   width: 100%;
+  height: auto;
 }
 
 
