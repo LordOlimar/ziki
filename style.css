@@ -1,0 +1,26 @@
+body {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  background: plum;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  min-width: 100vh;
+  display: grid;
+  place-items: tops;
+  padding-bottom: 60px;
+}
+
+.container .content h1 {
+  font-size: 40px;
+  color: darkslateblue;
+  padding: 5px 0;
+}
+.container .content p {
+  font-size: 25px;
+  color: darkslateblue;
+  padding: 5px 0;
+}
