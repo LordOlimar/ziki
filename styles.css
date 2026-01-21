@@ -10,8 +10,12 @@ body {
 .container {
   min-width: 100vh;
   display: grid;
-  place-items: tops;
+  place-items: top;
   padding-bottom: 60px;
+}
+
+.container .content {
+  text-align: center;
 }
 
 .container .content h1 {
