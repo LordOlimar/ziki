@@ -47,4 +47,8 @@ body {
   padding: 5px 0;
 }
 
+.polaroid img {
+  max-width: 100%;
+}
+
 
