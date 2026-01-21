@@ -50,13 +50,13 @@ body {
 
 .polaroid img {
   width: 90%;
-  padding: 5px;
+  padding: 25px;
   height: auto;
 }
 
 .polaroid video {
   width: 90%;
-  padding: 5px;
+  padding: 25px;
   height: auto;
 }
 
