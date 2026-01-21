@@ -2,7 +2,7 @@ body {
   margin: 0; 
   padding: 0;
   box-sizing: border-box;
-  background: plum;
+  background-image: url("board-background.jpg");
   text-transform: capitalize;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
