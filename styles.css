@@ -20,13 +20,13 @@ body {
 
 .container .content h1 {
   font-size: 40px;
-  color: darkslateblue;
+  color: black;
   padding: 5px 0;
 }
 
 .container .content p {
   font-size: 25px;
-  color: darkslateblue;
+  color: black;
   padding: 5px 0;
 }
 
