@@ -25,6 +25,7 @@ body {
 }
 
 .container .content p {
+  font-style: Bradley Hand;
   font-size: 25px;
   color: black;
   padding: 5px 0;
