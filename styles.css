@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   background-image: url("board-background.png");
   text-transform: capitalize;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Bradley Hand";
 }
 
 .container {
@@ -25,7 +25,7 @@ body {
 }
 
 .container .content p {
-  font-family: Bradley Hand;
+  font-family: "Bradley Hand";
   font-size: 25px;
   color: black;
   padding: 5px 0;
